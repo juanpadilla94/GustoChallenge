@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gusto</string>
+    <string name="monday_week_1">Chicken and waffles</string>
+    <string name="monday_week_2">Breakfast for lunch</string>
+    <string name="tuesday_week_1">Tacos</string>
+    <string name="tuesday_week_2">Hamburgers</string>
+    <string name="wednesday_week_1">Curry</string>
+    <string name="wednesday_week_2">Spaghetti</string>
+    <string name="thursday_week_1">Pizza</string>
+    <string name="thursday_week_2">Salmon</string>
+    <string name="friday_week_1">Sushi</string>
+    <string name="friday_week_2">Sandwiches</string>
+    <string name="weekend">No lunch ):</string>
+</resources>
